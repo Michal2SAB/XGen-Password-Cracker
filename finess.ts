@@ -43,7 +43,7 @@ async function finess(username, filename, prefix, afterfix, capslock) {
         return;
     }
         await readLines(filename, async (line) => {
-        await delay(50) // 10
+        await delay(10) // How fast the bruteforcer will be (in milliseconds). Change to less if you want to lose internet.
         post_php(prefix, afterfix, capslock, line, username);
     });
 }
