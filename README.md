@@ -9,7 +9,7 @@ Releasing it now because their games and the company itself is dead anyways.
 
 2. Install these in the bruteforcer's folder with npm:
 
-  - npm i node-fetch
+&nbsp&nbsp- npm i node-fetch
   - npm i line-reader
   - npm i fs
   - npm i ts-node
