@@ -66,7 +66,7 @@ async function post_php(prefix, afterfix, capslock, x, username) {
         body: params
     };
     
-    const url = 'https://secure.xgenstudios.com/stickrpg2/redeem-fs.php?code=XGE190322-2259-68135|6282a9563a8a007ba1d1a8a8773e788b';
+    const url = 'https://secure.xgenstudios.com/stickrpg2/redeem-fs.php?code=lol';
     await fetch2(url, post_options)
     .then(res => res.text())
     .then(text => {
