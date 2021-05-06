@@ -8,12 +8,12 @@ Releasing it now because their games and the company itself is dead anyways.
 1. Node.js
 
 2. Install these in the bruteforcer's folder with npm:
-<pre><span style="color:green">
+<pre>
   - npm i node-fetch
   - npm i line-reader
   - npm i fs
   - npm i ts-node
-</span></pre>
+</pre>
 
 3. May be something else too, I don't remember, it's been awhile since I made this.
 
@@ -23,10 +23,10 @@ Releasing it now because their games and the company itself is dead anyways.
 2. No limits, no nothing. This method completely bypasses anything XGen has ever done to prevent account stealing.
 3. You can use any wordlist out there, or create your own and use it too. Make sure they're in .txt extension and located in Wordlists folder.
 4. Cool options such as:
-<pre><span style="color:green">
+<pre>
   - Capitalizing all first letters and/or capitalizing entire words in wordlists (you can choose).
   - Adding a prefix and/or afterfix before and/or after every word in wordlist (numbers for example)
-</span></pre>
+</pre>
 5. If found password, you will hear a system beep sound and a text file with your account's name will be created in the "Finessed" folder. Inside of it, you will find the password to your account.
 
 # Don't know how to install modules and run this bruteforcer?
