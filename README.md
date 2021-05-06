@@ -32,3 +32,7 @@ Releasing it now because their games and the company itself is dead anyways.
 # Don't know how to install modules and run this bruteforcer?
 
 If you don't know how to run this.. good, that means it's not for you.
+
+# Doesn't work?
+
+If it doesn't work anymore, that means XGen probably saw it and finally patched it. Sorry.
