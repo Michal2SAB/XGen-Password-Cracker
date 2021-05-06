@@ -26,7 +26,7 @@ Releasing it now because their games and the company itself is dead anyways.
 - Capitalizing all first letters and/or capitalizing entire words in wordlists (you can choose).
 - Adding a prefix and/or afterfix before and/or after every word in wordlist (numbers for example)
 
-4. If found password, you will hear a system beep sound and a text file with your account's name will be created in the "Finessed" folder. Inside of it, you will find the password to your account.
+5. If found password, you will hear a system beep sound and a text file with your account's name will be created in the "Finessed" folder. Inside of it, you will find the password to your account.
 
 # Don't know how to install modules and run this bruteforcer?
 
