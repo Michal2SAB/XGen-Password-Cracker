@@ -27,7 +27,6 @@ Releasing it now because their games and the company itself is dead anyways.
 - Adding a prefix and/or afterfix before and/or after every word in wordlist (numbers for example)
 
 4. If found password, you will hear a system beep sound and a text file with your account's name will be created in the "Finessed" folder. Inside of it, you will find the password to your account.
-5. 
 
 # Don't know how to install modules and run this bruteforcer?
 
