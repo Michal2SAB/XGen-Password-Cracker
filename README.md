@@ -8,11 +8,12 @@ Releasing it now because their games and the company itself is dead anyways.
 1. Node.js
 
 2. Install these in the bruteforcer's folder with npm:
-
-&nbsp&nbsp- npm i node-fetch
+<pre>
+  - npm i node-fetch
   - npm i line-reader
   - npm i fs
   - npm i ts-node
+</pre>
 
 3. May be something else too, I don't remember, it's been awhile since I made this.
 
