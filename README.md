@@ -36,3 +36,7 @@ If you don't know how to run this.. good, that means it's not for you.
 # Doesn't work?
 
 If it doesn't work anymore, that means XGen probably saw it and finally patched it. Sorry.
+
+# Oh yea and one more thing..
+
+I'm not responsible for whatever you do with this. Nobody told you to use it.
