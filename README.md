@@ -11,7 +11,6 @@ Releasing it now because their games and the company itself is dead anyways.
 <pre>
   - npm i node-fetch
   - npm i line-reader
-  - npm i fs
   - npm i ts-node
 </pre>
 
