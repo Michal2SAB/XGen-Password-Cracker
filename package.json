@@ -1,0 +1,25 @@
+{
+  "name": "xgen-password-cracker",
+  "version": "1.0.0",
+  "description": "Amazing password bruteforcer for all of xgenstudios games. Bypasses everything and checks pws at a ridiculous speed.",
+  "main": "finess.ts",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passwords",
+    "cracker",
+    "hack",
+    "wordlists",
+    "javascript",
+    "node.js",
+    "bruteforce"
+  ],
+  "author": "Michal2SAB",
+  "license": "ISC"
+}
